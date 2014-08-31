@@ -1,4 +1,7 @@
-.DS_Store
 paper
 paper/*
 *.swp
+hide*
+*hide*
+.DS_Store
+*.DS_Store
