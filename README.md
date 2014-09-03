@@ -15,4 +15,4 @@ The code for TIAM is contained in src/.
 
 The demo video and the user guide can be found in doc/.
 
-The benchmark data can be obtained via the following link: http://j.mp/tiambenchmarkdata
+The benchmark data can be obtained via the following link: http://j.mp/tiambenchmarkdata2
